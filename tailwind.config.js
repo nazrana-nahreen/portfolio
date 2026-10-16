@@ -1,0 +1,108 @@
+export default {
+  content: ['./index.html', './src/**/*.{js,jsx}'],
+  theme: {
+    extend: {
+      colors: {
+        // Palette from user image
+        blush: {
+          DEFAULT: '#FFDBDF',
+          50: '#FFF7F8',
+          100: '#FFEDF0',
+          200: '#FFDBDF',
+          300: '#FCAEBA',
+        },
+        rose: {
+          DEFAULT: '#F791A9',
+          50: '#FDF0F3',
+          100: '#FCE2E7',
+          200: '#FAC6D1',
+          300: '#F791A9',
+          400: '#EF6887',
+          500: '#E44368',
+          600: '#C82E51',
+        },
+        butter: {
+          DEFAULT: '#FFE797',
+          50: '#FFFDF5',
+          100: '#FFF9E5',
+          200: '#FFE797',
+          300: '#FCD25A',
+          400: '#EAB82B',
+        },
+        lime: {
+          DEFAULT: '#DDDD7B',
+          50: '#FAFBF0',
+          100: '#F4F6DC',
+          200: '#DDDD7B',
+          300: '#C5C552',
+          400: '#A4A431',
+        },
+        mist: {
+          DEFAULT: '#E0F2F4',
+          50: '#F6FCFD',
+          100: '#E0F2F4',
+          200: '#C7E7EB',
+          300: '#A5D6DC',
+        },
+        sky: {
+          DEFAULT: '#BAD6DA',
+          50: '#F2F8F9',
+          100: '#E2EFF1',
+          200: '#BAD6DA',
+          300: '#91BEC4',
+          400: '#6CA3AB',
+          500: '#4F8890',
+        },
+        ink: {
+          DEFAULT: '#19282C',
+          50: '#F4F7F8',
+          100: '#E4EBED',
+          200: '#C4D4D8',
+          300: '#8FA6AC',
+          400: '#647D83',
+          500: '#4A6166',
+          600: '#34474B',
+          700: '#253538',
+          800: '#19282C',
+          900: '#111C1F',
+          950: '#0B1315',
+        },
+        paper: {
+          DEFAULT: '#FAF5F5',
+          card: '#FFFFFF',
+          soft: '#F4ECEE',
+          muted: '#EFE5E7',
+        },
+        accent: '#F791A9',
+      },
+      fontFamily: {
+        display: ['Fraunces', 'serif'],
+        body: ['Figtree', 'system-ui', 'sans-serif'],
+      },
+      boxShadow: {
+        'glow-rose': '0 0 25px -4px rgba(247, 145, 169, 0.45)',
+        'glow-sky': '0 0 25px -4px rgba(186, 214, 218, 0.5)',
+        'glow-butter': '0 0 25px -4px rgba(255, 231, 151, 0.45)',
+        'glow-lime': '0 0 25px -4px rgba(221, 221, 123, 0.45)',
+        'card-soft': '0 4px 20px -2px rgba(25, 40, 44, 0.05), 0 2px 6px -1px rgba(25, 40, 44, 0.03)',
+        'card-hover': '0 16px 36px -4px rgba(25, 40, 44, 0.10), 0 4px 12px -2px rgba(25, 40, 44, 0.05)',
+      },
+      animation: {
+        'float-slow': 'float 7s ease-in-out infinite',
+        'float-reverse': 'floatReverse 8s ease-in-out infinite',
+        'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        'spin-slow': 'spin 20s linear infinite',
+      },
+      keyframes: {
+        float: {
+          '0%, 100%': { transform: 'translateY(0px) rotate(0deg)' },
+          '50%': { transform: 'translateY(-12px) rotate(1.5deg)' },
+        },
+        floatReverse: {
+          '0%, 100%': { transform: 'translateY(0px) rotate(0deg)' },
+          '50%': { transform: 'translateY(12px) rotate(-1.5deg)' },
+        },
+      },
+    },
+  },
+}

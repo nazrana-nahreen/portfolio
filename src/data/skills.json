@@ -1,0 +1,61 @@
+[
+  {
+    "group": "Languages",
+    "items": [
+      { "name": "Python",      "icon": "SiPython" },
+      { "name": "C++",         "icon": "SiCplusplus" },
+      { "name": "SQL",         "icon": "SiMysql" },
+      { "name": "JavaScript",  "icon": "SiJavascript" }
+    ]
+  },
+  {
+    "group": "Machine & Deep Learning",
+    "items": [
+      { "name": "PyTorch",       "icon": "SiPytorch" },
+      { "name": "TensorFlow",    "icon": "SiTensorflow" },
+      { "name": "Keras",         "icon": "SiKeras" },
+      { "name": "Scikit-learn",  "icon": "SiScikitlearn" },
+      { "name": "Explainable AI","icon": "TbChartDots" }
+    ]
+  },
+  {
+    "group": "NLP & Generative AI",
+    "items": [
+      { "name": "NLP",           "icon": "TbLanguage" },
+      { "name": "Transformers",  "icon": "TbBrain" },
+      { "name": "RAG",           "icon": "TbSearch" },
+      { "name": "LLM APIs",      "icon": "SiOpenai" },
+      { "name": "Chatbots",      "icon": "TbMessageChatbot" }
+    ]
+  },
+  {
+    "group": "Computer Vision",
+    "items": [
+      { "name": "OpenCV",            "icon": "SiOpencv" },
+      { "name": "Object Detection",  "icon": "TbEye" }
+    ]
+  },
+  {
+    "group": "Data & Backend",
+    "items": [
+      { "name": "NumPy",       "icon": "SiNumpy" },
+      { "name": "Pandas",      "icon": "SiPandas" },
+      { "name": "FastAPI",     "icon": "SiFastapi" },
+      { "name": "Flask",       "icon": "SiFlask" },
+      { "name": "REST APIs",   "icon": "TbApi" },
+      { "name": "PostgreSQL",  "icon": "SiPostgresql" }
+    ]
+  },
+  {
+    "group": "Tools & MLOps",
+    "items": [
+      { "name": "Git",           "icon": "SiGit" },
+      { "name": "GitHub",        "icon": "SiGithub" },
+      { "name": "Docker",        "icon": "SiDocker" },
+      { "name": "Jupyter",       "icon": "SiJupyter" },
+      { "name": "Google Colab",  "icon": "SiGooglecolab" },
+      { "name": "VS Code",       "icon": "TbBrandVscode" },
+      { "name": "Overleaf",      "icon": "SiOverleaf" }
+    ]
+  }
+]

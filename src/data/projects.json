@@ -1,0 +1,42 @@
+[
+  {
+    "id": "taka-detection",
+    "title": "Bangladeshi Taka Note Detection API",
+    "desc": "YOLOv11-based computer vision web system and REST API for real-time detection, boundary localization, and classification of Bangladeshi bank currency notes with automated inference.",
+    "result": "Deployed live on Render with an interactive image upload interface and computer vision inference pipeline.",
+    "image": "/images/projects/taka-detection.jpg",
+    "liveLink": "https://bangladeshi-taka-detection-api-j8gz.onrender.com",
+    "liveLinkLabel": "Try live demo",
+    "tags": ["YOLOv11", "Computer Vision", "FastAPI", "Deep Learning", "PyTorch"]
+  },
+  {
+    "id": "banglatext-api",
+    "title": "BanglaText: Bengali NLP & Sentiment API",
+    "desc": "A production-grade natural language processing REST API specialized for the Bengali language. Provides automated text normalization, tokenization, preprocessing, and Bengali sentiment analysis.",
+    "result": "Fully documented OpenAPI/Swagger endpoints (/process, /sentiment, /health) deployed live on Render for developer integration.",
+    "image": "/images/projects/banglatext.jpg",
+    "liveLink": "https://banglatext-api.onrender.com",
+    "liveLinkLabel": "View API & docs",
+    "tags": ["Bengali NLP", "Sentiment Analysis", "FastAPI", "Python", "REST API"]
+  },
+  {
+    "id": "orbitwatch",
+    "title": "OrbitWatch AI: Asteroid Tracking & Orbit Risk Explorer",
+    "desc": "Scientific exploration and real-time monitoring of Near-Earth Asteroids (NEAs), close approach trajectory calculation, orbital risk assessment, and interactive ephemeris celestial visualization powered by NASA JPL data.",
+    "result": "Deployed live on Vercel with high-precision orbital tracking, risk index metrics, and interactive celestial dashboard.",
+    "image": "/images/projects/orbitwatch.jpg",
+    "liveLink": "https://orbitwatch-l1rq.vercel.app/",
+    "liveLinkLabel": "Launch OrbitWatch",
+    "tags": ["React", "NASA JPL API", "Orbital Mechanics", "Data Visualization", "AI"]
+  },
+  {
+    "id": "aerohealth",
+    "title": "AeroHealth AI: Aircraft Predictive Maintenance System",
+    "desc": "End-to-end Machine Learning and Prognostics & Health Management (PHM) system for turbofan engines using NASA C-MAPSS telemetry. Estimates degradation trajectories, Remaining Useful Life (RUL), and delivers maintenance intelligence via a FastAPI REST API and Streamlit cockpit dashboard.",
+    "result": "Evaluated against NASA PHM 2008 asymmetric penalty scoring with automated feature engineering pipelines and fleet monitoring.",
+    "image": "/images/projects/aerohealth.jpg",
+    "liveLink": "https://github.com/nazrana-nahreen/AeroHealth",
+    "liveLinkLabel": "View on GitHub",
+    "tags": ["Machine Learning", "NASA C-MAPSS", "Predictive Maintenance", "FastAPI", "Streamlit"]
+  }
+]

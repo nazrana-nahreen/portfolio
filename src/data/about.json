@@ -1,0 +1,20 @@
+{
+  "paragraphs": [
+    "I am a student of Computer Science and Engineering at International Islamic University Chittagong. I love building machine learning and software development projects, especially where careful data handling decides whether a model can be trusted."
+  ],
+  "education": {
+    "degree": "BSc in Computer Science and Engineering",
+    "institution": "International Islamic University Chittagong",
+    "period": "2023 – 2026",
+    "hsc": {
+      "passing_year": 2021,
+      "background": "Science",
+      "college": "Chittagong Port Women College"
+    },
+    "ssc": {
+      "passing_year": 2018,
+      "background": "Science",
+      "school": "Silver Bells Girls High School"
+    }
+  }
+}

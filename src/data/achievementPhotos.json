@@ -1,0 +1,101 @@
+[
+  {
+    "id": "nasa-space-apps",
+    "title": "NASA International Space Apps Challenge 2024",
+    "category": "Space & Aerospace AI",
+    "award": "Galactic Problem Solver Award",
+    "description": "Recognized by NASA, ESA, JAXA, CSA, and ISRO for outstanding participation and efforts to address scientific challenges on Earth and in space.",
+    "image": "/images/achievements/nasa-space-apps.png",
+    "date": "Oct 5–6, 2024",
+    "badge": "NASA Space Apps",
+    "aspect": "landscape"
+  },
+  {
+    "id": "ieee-wie-robotics",
+    "title": "IEEE WIE Robotics for Climate Change & Assistive Tech",
+    "category": "Robotics & Hardware",
+    "award": "Certificate of Appreciation — WIE BD Summit 2024",
+    "description": "Awarded by IEEE Bangladesh Section and WIE AG for robotics innovation tackling climate change and assistive technologies at WIE BD Summit.",
+    "image": "/images/achievements/ieee-wie-robotics.png",
+    "date": "2024",
+    "badge": "IEEE WIE Summit",
+    "aspect": "landscape"
+  },
+  {
+    "id": "icpc-2024",
+    "title": "ICPC Asia Dhaka Regional Preliminary 2024",
+    "category": "Competitive Programming",
+    "award": "Certificate of Achievement — Honorable Mention",
+    "description": "Awarded to Nazrana Nahreen representing International Islamic University Chittagong at the prestigious International Collegiate Programming Contest.",
+    "image": "/images/achievements/icpc-certificate.jpg",
+    "date": "Oct – Nov 2024",
+    "badge": "ICPC Contest",
+    "aspect": "landscape"
+  },
+  {
+    "id": "ai-certs-prompt-engineer",
+    "title": "AI+ Prompt Engineer Level 1™ Certification",
+    "category": "Artificial Intelligence",
+    "award": "Certified AI+ Prompt Engineer",
+    "description": "Blockchain-verified professional certification awarded by AI CERTS™ (Certification No: bb204762252b).",
+    "image": "/images/achievements/ai-certs-prompt-engineer.png",
+    "date": "Aug 2025",
+    "badge": "AI CERTS™",
+    "aspect": "landscape"
+  },
+  {
+    "id": "edge-cuet-award",
+    "title": "EDGE-CUET Digital Skills Award Ceremony",
+    "category": "ICT & Digital Skills",
+    "award": "Official Award Ceremony on Stage",
+    "description": "Presented certificate at the official award ceremony under the Bangladesh Computer Council (BCC), ICT Division, and CUET leadership.",
+    "image": "/images/achievements/edge-cuet-award.jpg",
+    "date": "2024",
+    "badge": "Govt. ICT Division",
+    "aspect": "landscape"
+  },
+  {
+    "id": "edge-cuet-mobile-app",
+    "title": "Mobile App Development (Android / Flutter / iOS)",
+    "category": "Software Engineering",
+    "award": "80-Hour Professional Training Certification",
+    "description": "Completed 80 hours of hands-on mobile application engineering conducted by Department of CSE, CUET under the EDGE Project, Bangladesh Computer Council, ICT Division.",
+    "image": "/images/achievements/edge-cuet-mobile-app.png",
+    "date": "Aug – Dec 2024",
+    "badge": "CUET & ICT Div",
+    "aspect": "landscape"
+  },
+  {
+    "id": "crest-ceremony",
+    "title": "Honorary Crest & Award Ceremony",
+    "category": "Stage Recognition",
+    "award": "Prestigious Crest Award on Stage",
+    "description": "Receiving honors and competition crest on stage from esteemed university faculty and competition leadership.",
+    "image": "/images/achievements/crest-award-ceremony.jpg",
+    "date": "2024",
+    "badge": "Honors Crest",
+    "aspect": "landscape"
+  },
+  {
+    "id": "hult-prize",
+    "title": "Hult Prize OnCampus Program 2024–2025",
+    "category": "Social Enterprise",
+    "award": "Certificate of Recognition — Organizing Committee",
+    "description": "Recognizing participation as Associate of Creative & Design in the Organizing Committee for the Hult Prize OnCampus Program at IIUC.",
+    "image": "/images/achievements/hult-prize-certificate.jpg",
+    "date": "March 2024",
+    "badge": "Hult Prize",
+    "aspect": "landscape"
+  },
+  {
+    "id": "contest-olympiad",
+    "title": "National Contest & Olympiad Delegation",
+    "category": "National Competition",
+    "award": "Delegation & Competition Participation",
+    "description": "Representing the university at premier national university competition venue alongside the official championship mascot.",
+    "image": "/images/achievements/contest-olympiad.jpg",
+    "date": "2024",
+    "badge": "National Contest",
+    "aspect": "portrait"
+  }
+]
