@@ -24,16 +24,6 @@ export const skills = [
 
 export const research = [
   {
-    title: 'Automated Classification of Gastrointestinal Diseases from Real-World Endoscopy Images Using ConvNeXt and SOTA Deep Learning Models',
-    venue: 'CITIC 2026, Malaysia · AI & Machine Learning track',
-    status: 'Accepted, not yet published',
-  },
-  {
-    title: 'CerviQ: Explainable Data-Reuploading Quantum Classification for Cervical Cytology Screening',
-    venue: 'IEEE OMLET 2026, Nairobi, Kenya · poster',
-    status: 'Accepted with minor revision',
-  },
-  {
     title: 'A Leakage-Aware Two-Stage XGBoost Framework for Early Detection and Clinical Staging of Chronic Kidney Disease',
     venue: 'IEEE QPAIN 2026, Chittagong · April 2026',
     status: 'Published',

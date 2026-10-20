@@ -1073,7 +1073,7 @@ function Research() {
       <SectionTitle
         label="Peer-Reviewed Literature"
         title="Research Publications"
-        subtitle="Four accepted or published research contributions spanning quantum machine learning, explainable AI, and medical diagnostics."
+        subtitle="Peer-reviewed research contributions published with IEEE spanning clinical machine learning, predictive analytics, and medical diagnostics."
         color={PALETTE.sky}
       />
 
