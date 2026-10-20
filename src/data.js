@@ -82,6 +82,15 @@ export const achievements = [
 
 export const projects = [
   {
+    title: 'CycleSense.ai: Menstrual Health & PCOS Guidance Platform',
+    summary:
+      'A dignified, evidence-backed menstrual health platform designed for accurate cycle tracking, nuanced symptom awareness, and compassionate PCOS guidance. Combines empirical cycle science with dual-language AI assistance (English & Bengali) and 100% privacy-protected health insights.',
+    result: 'Deployed live on Vercel with bilingual health AI (EN/বাং), cycle phase prediction, hormonal symptom awareness, and privacy-first architecture.',
+    tags: ['HealthTech AI', 'Menstrual Health', 'React', 'Dual-Language NLP', 'PCOS Guidance', 'Privacy-First'],
+    link: 'https://cycle-sense-ai-xi.vercel.app/',
+    linkLabel: 'Launch CycleSense.ai',
+  },
+  {
     title: 'Bangladeshi Taka Note Detection API',
     summary:
       'YOLOv11-based computer vision web system and REST API for real-time detection, boundary localization, and classification of Bangladeshi bank currency notes with automated inference.',

@@ -961,7 +961,7 @@ function Projects() {
       <SectionTitle
         label="Machine Learning & Software Development"
         title="Featured Projects"
-        subtitle="Production machine learning systems, Bengali NLP APIs, predictive maintenance architectures, and aerospace intelligence."
+        subtitle="Production machine learning systems, dual-language health AI platforms, Bengali NLP APIs, predictive maintenance architectures, and aerospace intelligence."
         color={PALETTE.rose}
       />
 
